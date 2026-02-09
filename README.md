@@ -36,11 +36,15 @@ capstone-project-online-shopping/
 ├── images/
 └── README.md
 
+```
+---
+
 ## Dataset
 
 * **Source:** Kaggle
 * **Dataset Name:** Online Shoppers Purchasing Intention Dataset
 * **Link:** [Kaggle Dataset URL](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)
+---
 
 ### Dataset Description
 The dataset contains user session data from an online retail website, including:
