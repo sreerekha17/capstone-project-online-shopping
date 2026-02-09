@@ -1,12 +1,26 @@
 # Capstone Project: Predicting Online Shopper Purchase Behavior
 
-## Project Overview
+## Executive Summary
 
 In online retail, most users browse products without making a purchase. Understanding why some users convert while others do not is a key business problem for retailers. Accurately predicting purchase intent can help improve personalization, marketing strategies, and overall user experience.
 
-This capstone project focuses on analyzing online shopper behavior and building machine learning models to predict whether a user session will result in a purchase. The project is divided into two phases to align with the course structure and the CRISP-DM framework.
+This capstone project focuses on analyzing online shopper behavior and building machine learning models to predict whether a user session will result in a purchase. 
 
 ---
+## Rationale 
+
+Online retail faces a challenge: many users browse products without making a purchase.
+Understanding which users are likely to convert allows retailers to:
+
+Personalize recommendations
+
+Optimize marketing spend
+
+Improve customer engagement
+
+Increase conversion rates
+
+Predicting purchase intent is therefore a high-impact business problem that combines data analysis and machine learning.
 
 ## Research Question
 
@@ -57,9 +71,18 @@ The dataset contains user session data from an online retail website, including:
 
 ---
 
+## Requirements
+
+The following Python libraries are required to run the notebooks:
+
+* **Data Manipulation:** pandas, numpy
+* **Visualization:** matplotlib, seaborn
+* **Machine Learning:** scikit-learn
+* **Environment:** Jupyter Notebook or Google Colab
+
+---
+
 ## Methodology: CRISP-DM Framework
-
-
 
 This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework to ensure a structured and explainable approach.
 
@@ -172,13 +195,4 @@ The baseline Logistic Regression model prioritizes overall accuracy but fails to
 
 ---
 
-## Requirements
 
-The following Python libraries are required to run the notebooks:
-
-* **Data Manipulation:** pandas, numpy
-* **Visualization:** matplotlib, seaborn
-* **Machine Learning:** scikit-learn
-* **Environment:** Jupyter Notebook or Google Colab
-
----
