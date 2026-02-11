@@ -1,5 +1,7 @@
 # Predicting Online Shopper Purchase Behavior
 
+[Link To Report](./report/Capstone%20Project_Final%20Report.pdf)
+
 ## Executive Summary
 
 This project focuses on predicting whether an online shopping session will result in a purchase based on user behavior data. Using browsing patterns such as page visits, session duration, bounce rates, and visitor type, machine learning models were developed to identify purchasing intent.
